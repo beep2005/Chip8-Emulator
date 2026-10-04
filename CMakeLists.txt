@@ -3,4 +3,4 @@ project(Chip8Emu CXX)
 
 set (CMAKE_CXX_STANDARD 17)
 
-add_executable(ch8emu main.cpp)
+add_executable(ch8emu main.cpp registers.cpp openFile.cpp)

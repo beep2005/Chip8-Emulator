@@ -4,5 +4,17 @@
   "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/ch8emu.dir/main.cpp.o -c /home/beep/Документы/vscode_projects/chip8_emulator/main.cpp",
   "file": "/home/beep/Документы/vscode_projects/chip8_emulator/main.cpp",
   "output": "/home/beep/Документы/vscode_projects/chip8_emulator/build/CMakeFiles/ch8emu.dir/main.cpp.o"
+},
+{
+  "directory": "/home/beep/Документы/vscode_projects/chip8_emulator/build",
+  "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/ch8emu.dir/registers.cpp.o -c /home/beep/Документы/vscode_projects/chip8_emulator/registers.cpp",
+  "file": "/home/beep/Документы/vscode_projects/chip8_emulator/registers.cpp",
+  "output": "/home/beep/Документы/vscode_projects/chip8_emulator/build/CMakeFiles/ch8emu.dir/registers.cpp.o"
+},
+{
+  "directory": "/home/beep/Документы/vscode_projects/chip8_emulator/build",
+  "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/ch8emu.dir/openFile.cpp.o -c /home/beep/Документы/vscode_projects/chip8_emulator/openFile.cpp",
+  "file": "/home/beep/Документы/vscode_projects/chip8_emulator/openFile.cpp",
+  "output": "/home/beep/Документы/vscode_projects/chip8_emulator/build/CMakeFiles/ch8emu.dir/openFile.cpp.o"
 }
 ]
