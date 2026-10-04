@@ -1,0 +1,3 @@
+/home/beep/Документы/vscode_projects/chip8_emulator/build/CMakeFiles/ch8emu.dir
+/home/beep/Документы/vscode_projects/chip8_emulator/build/CMakeFiles/edit_cache.dir
+/home/beep/Документы/vscode_projects/chip8_emulator/build/CMakeFiles/rebuild_cache.dir
